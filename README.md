@@ -17,7 +17,7 @@ app-icon
 
 ## Demo
 
-https://jamesjohnson280.github.io/hello-pwa/
+https://quaaron.github.io/
 
 ## Browser Compatibility
 本项目目前支持以下浏览器:
